@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ensure the following are correctly installed:
+Ruby 3.0.2p107
+React
+Yarn 1.22.10
+Run Yarn in project folder to install dependencies
+Run bundle install in project folder to install needed dependencies.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+Initial data is generated in the seed data.
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
