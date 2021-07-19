@@ -15,4 +15,4 @@ Initial data is generated in the seed data.
 * How to run the test suite
 
 Next steps for project:
-Would build out the functionality so that you can have multiple pictures associated with each hike, next would be trying to get google map api to connect so you can include a map as a field for a hike
+Would build out the functionality so that you can have multiple pictures associated with each Event, next would be trying to get google map api to connect so you can include a map for a event
