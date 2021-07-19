@@ -1,0 +1,34 @@
+[
+    {
+      "event_type": "Hiking Meetup",
+      "event_date": "2021-08-01",
+      "title": "Backpacking Trip to Maligne lake",
+      "speaker": "john s, caro s, steph s, eli m",
+      "host": "Aparna",
+      "published": true
+    },
+    {
+      "event_type": "Camping trip",
+      "event_date": "2021-07-25",
+      "title": "Camping near mount Burke",
+      "speaker": "caro s, steve p",
+      "host": "John Stuby",
+      "published": true
+    },
+    {
+      "event_type": "Bike ride",
+      "event_date": "2021-07-22",
+      "title": "Bike ride to the south",
+      "speaker": "Steve p, Cam b",
+      "host": "John S",
+      "published": true
+    },
+    {
+      "event_type": "firewood run",
+      "event_date": "2021-09-20",
+      "title": "Firewood run out to crown land",
+      "speaker": "John S, Steve P",
+      "host": "Stephen k",
+      "published": true
+    }
+  ]
